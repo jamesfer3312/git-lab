@@ -22,4 +22,3 @@ Answer 11:! [rejected]        master -> master (fetch first)
 error: failed to push some refs to 'https://github.com/jamesfer3312/git-lab.git'
 Answer 12: No
 Answer 13: .  ..  answers.md  .git  git-lab-2  README.md
-Answer 14:
