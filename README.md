@@ -1,1 +1,3 @@
-CS 2400, Section 107
+James Fernandez
+jamesfer3312
+Answers located in answers.md
